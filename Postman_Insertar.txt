@@ -1,0 +1,35 @@
+
+
+
+///////////////// POST
+
+
+http://localhost:3000/cliente/insertar
+
+
+
+
+
+{
+    "nombre":"OSVALDO",
+    "apellido":"MARTINEZ",
+     "email":"osvaldo@gmail.com"   
+}
+
+
+{
+    "autos": [],
+    "_id": "600f56f9141aba29ac529ed4",
+    "nombre": "OSVALDO",
+    "apellido": "MARTINEZ",
+    "email": "osvaldo@gmail.com",
+    "__v": 0
+}
+
+
+
+
+
+
+ 
+

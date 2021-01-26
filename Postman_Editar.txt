@@ -1,0 +1,21 @@
+
+
+//////////////////// PUT
+
+
+
+http://localhost:3000/cliente/editar/600f56f9141aba29ac529ed4
+
+
+
+{
+    "nombre":"OSVALDO MARTIN",
+    "apellido":"PORTA",
+     "email":"osvaldoMARTIN@gmail.com"   
+}
+
+
+
+{
+    "success": true
+}

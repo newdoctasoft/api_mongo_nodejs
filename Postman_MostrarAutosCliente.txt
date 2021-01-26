@@ -1,0 +1,25 @@
+
+
+///////////////////// GET
+
+
+
+http://localhost:3000/users/5fbeef2989644321042e664f/cars
+
+
+
+{
+    "cars": [
+        "5fbfd1525e15d42a8c3d58ce",
+        "5fbfd1d15e15d42a8c3d58cf"
+    ],
+    "_id": "5fbeef2989644321042e664f",
+    "firstname": "OSVALDO",
+    "lastname": "MERCURIO",
+    "email": "osvaldo@gmail.com",
+    "__v": 2
+}
+
+
+
+

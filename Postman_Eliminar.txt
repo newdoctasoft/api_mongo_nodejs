@@ -1,0 +1,12 @@
+
+
+/////////////// DELETE
+
+
+
+http://localhost:3000/cliente/eliminar/600f58994789bd3fccb77024
+
+
+{
+    "success": true
+}

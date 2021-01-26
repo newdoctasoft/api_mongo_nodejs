@@ -1,0 +1,75 @@
+
+
+/////////////////// POST
+
+
+http://localhost:3000/cliente/insertarAuto/600f56f9141aba29ac529ed4
+
+
+ {
+    "marca": "RENAULT",
+    "modelo": "CLIO",
+    "anio": 2010
+}
+
+
+{
+    "_id": "600f5949df08cb2a108952d6",
+    "marca": "RENAULT",
+    "modelo": "CLIO",
+    "anio": 2010,
+    "cliente": "600f56f9141aba29ac529ed4",
+    "__v": 0
+}
+
+
+{
+    "marca": "CITROEN",
+    "modelo": "PICAZZO",
+    "anio": 2019
+}
+
+{
+    "_id": "600f5983df08cb2a108952d7",
+    "marca": "CITROEN",
+    "modelo": "PICAZZO",
+    "anio": 2019,
+    "cliente": "600f56f9141aba29ac529ed4",
+    "__v": 0
+}
+
+
+
+
+//LISTAR
+
+
+[
+    {
+        "autos": [
+            "600f5949df08cb2a108952d6"
+        ],
+        "_id": "600f56f9141aba29ac529ed4",
+        "nombre": "OSVALDO MARTIN",
+        "apellido": "PORTA",
+        "email": "osvaldoMARTIN@gmail.com",
+        "__v": 1
+    }
+]
+
+
+
+[
+    {
+        "autos": [
+            "600f5949df08cb2a108952d6",
+            "600f5983df08cb2a108952d7"
+        ],
+        "_id": "600f56f9141aba29ac529ed4",
+        "nombre": "OSVALDO MARTIN",
+        "apellido": "PORTA",
+        "email": "osvaldoMARTIN@gmail.com",
+        "__v": 2
+    }
+]
+
